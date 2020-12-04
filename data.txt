@@ -1,0 +1,8 @@
+Rock,Scissors,win
+Scissors,Scissors,tie
+Rock,Paper,lose
+Paper,Rock,win
+Rock,Scissors,win
+Rock,Scissors,win
+Rock,Paper,lose
+Paper,Rock,win
